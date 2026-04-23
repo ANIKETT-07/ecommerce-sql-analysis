@@ -105,4 +105,4 @@ This project demonstrates how SQL can be used to analyze large datasets and extr
 
 ## 💼 Author
 **Aniket Khakre**  
-UI/UX Designer & Aspiring Data Analyst
+Aspiring Data Analyst
